@@ -19,6 +19,7 @@ I'm a passionate and dedicated junior frontend developer with a solid foundation
 #### My projects 
 - [Todo App](https://develop--kavume-todo-app.netlify.app/) Create tasks, track their status in your personal account. Used: TS, React, Webpack, Redux
 - [Sliding Puzzle](https://develop--gem-puzzle-game-presentation.netlify.app/) The ultimate goal is to solve the puzzle in the fewest number of moves and in the shortest amount of time possible
+- [Songbird Quiz](https://kavume.github.io/songbird/pages/start_page/index.html) Songbird is a quiz app for recognizing birds by their voices
 
 #### Certifications
 - [Certification-link](https://app.rs.school/certificate/9t7plmsu ) RS-School certificate of successful graduation from a JavaScript course
