@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm a passionate and dedicated junior frontend developer with a solid foundation in HTML, CSS, and JavaScript, with a strong focus on creating engaging and user-friendly web experiences 
 
 #### My projects 
-- [Todo App](https://develop--kavume-todo-app.netlify.app/) Create tasks, track their status in your personal account. Used: TS, React, Webpack, Redux
+- [Task Management App](https://develop--kavume-todo-app.netlify.app/) Create tasks, track their status in your personal account. Used: TS, React, Webpack, Redux
 - [Sliding Puzzle](https://develop--gem-puzzle-game-presentation.netlify.app/) The ultimate goal is to solve the puzzle in the fewest number of moves and in the shortest amount of time possible
 - [Songbird Quiz](https://kavume.github.io/songbird/pages/start_page/index.html) Songbird is a quiz app for recognizing birds by their voices
 
