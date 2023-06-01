@@ -24,7 +24,7 @@ I'm a passionate and dedicated junior frontend developer with a solid foundation
 
 #### Certifications
 - [Certificate](https://app.rs.school/certificate/9t7plmsu ) RS-School certificate of successful graduation from a JavaScript course 2022Q3
-- [Certificate](www.efset.org/cert/uhEfhq) The English level: B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
+- [Certificate](https://www.efset.org/cert/uhEfhq) The English level: B2 Upper Intermediate according to the Common European Framework of Reference (CEFR)
 
 
 #### Skills
