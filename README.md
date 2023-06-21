@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Welcome to my profile!
-I'm a passionate and dedicated junior frontend developer with a solid foundation in HTML, CSS, and JavaScript, with a strong focus on creating engaging and user-friendly web experiences 
+I'm a passionate and dedicated Junior Frontend Developer with a solid foundation in HTML, CSS, and JavaScript, with a strong focus on creating engaging and user-friendly web experiences 
 
 #### My projects 
 - [Task Management App](https://develop--kavume-todo-app.netlify.app/) Create tasks, track their status in your personal account. Used: TS, React, Webpack, Redux
