@@ -18,6 +18,7 @@ I'm a passionate and dedicated Junior Frontend Developer with a solid foundation
 
 #### My projects 
 - [Task Management App](https://develop--kavume-todo-app.netlify.app/) Create tasks, track their status in your personal account. Used: TS, React, Webpack, Redux
+- [Furniture Store](https://kavume.github.io/furniture-store/) Adaptive 1-page Landing
 - [Sliding Puzzle](https://develop--gem-puzzle-game-presentation.netlify.app/) The ultimate goal is to solve the puzzle in the fewest number of moves and in the shortest amount of time possible
 - [Songbird Quiz](https://kavume.github.io/songbird/pages/start_page/index.html) Songbird is a quiz app for recognizing birds by their voices
 - [Online-zoo](https://kavume.github.io/online-zoo/pages/main/) Adaptive 2-pages(About, Donate) web-site
@@ -31,4 +32,4 @@ I'm a passionate and dedicated Junior Frontend Developer with a solid foundation
 
 #### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,redux,webpack,firebase,jest,figma,ai,ps)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,angular,react,redux,webpack,firebase,jest,figma,ai,ps)](https://skillicons.dev)
